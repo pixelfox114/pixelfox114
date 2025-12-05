@@ -4,7 +4,7 @@
   <img src="neck.jpg" width="25%">
 </div>
 <p>
-  Text goes here and wraps around the container of gifs.
+  Text here is a test v2.
 </p>
 <p>
   This text is a test lol.
