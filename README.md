@@ -2,6 +2,9 @@
 <p align="right">
 <img src="blink.gif" alt="Spinning CD" width="25%" style="float: right;">
 </p>
+<p>
+  This text is a test lol.
+</p>
 
 
 <!--
