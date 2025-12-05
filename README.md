@@ -1,6 +1,6 @@
 ## pixelfox114 - 😺
-<p align="center">
-<img src="blink.gif" alt="Spinning CD" width="5%" style="float: right;">
+<p align="right">
+<img src="blink.gif" alt="Spinning CD" width="25%" style="float: right;">
 </p>
 
 
