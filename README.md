@@ -1,7 +1,7 @@
 ## pixelfox114 - 😺
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <img src="blink.gif" width="25%">
-  <img src="neck.jpg" width="25%">
+  <img src="blink.gif" width="20%">
+  <img src="neck.jpg" width="20%">
 </div>
 <p>
   Text here is a test v2.
