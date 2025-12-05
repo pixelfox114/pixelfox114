@@ -1,7 +1,7 @@
 ## pixelfox114 - 😺
 
-![Spinning CD](blink.gif)
-<img src="blink.gif" alt="Spinning CD" width="50%" style="float: right;">
+<img src="blink.gif" alt="Spinning CD" width="5%" style="float: right;">
+
 
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
