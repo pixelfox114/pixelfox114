@@ -1,6 +1,10 @@
 ## pixelfox114 - 😺
-<p align="right">
-<img src="blink.gif" alt="Spinning CD" width="25%" style="float: right;">
+<div style="float: right; display: flex; flex-direction: column; gap: 5px;">
+  <img src="blink.gif" width="25%">
+  <img src="neck.jpg" width="25%">
+</div>
+<p>
+  Text goes here and wraps around the container of gifs.
 </p>
 <p>
   This text is a test lol.
