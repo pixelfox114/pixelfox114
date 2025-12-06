@@ -1,10 +1,10 @@
 ## pixelfox114 - 😺
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <img src="blink.jpg" width="19%">
-  <img src="neck.jpg" width="19%">
-  <img src="html.png" width="19%">
-  <img src="und.png" width="19%">
-  <img src="tfb.jpg" width="19%">
+  <img src="blink.jpg" width="19.5%">
+  <img src="neck.jpg" width="19.5%">
+  <img src="html.png" width="19.5%">
+  <img src="und.png" width="19.5%">
+  <img src="tfb.jpg" width="19.5%">
 
 </div>
 <p>
