@@ -5,16 +5,16 @@
   <a href="https://youtu.be/5ieYcCunCjI">
     <img src="blink.jpg" width="19.5%">
   </a>
-  <a href="https://youtu.be/HzZGLOfIxkM" target="_blank">
+  <a href="https://youtu.be/HzZGLOfIxkM">
     <img src="neck.jpg" width="19.5%">
   </a>
-  <a href="https://youtu.be/DsIFM2QKMbI" target="_blank">
+  <a href="https://youtu.be/DsIFM2QKMbI">
     <img src="html.png" width="19.5%">
   </a>
-  <a href="https://youtu.be/wbO3p7_Mf30" target="_blank">
+  <a href="https://youtu.be/wbO3p7_Mf30">
     <img src="und.png" width="19.5%">
   </a>
-  <a href="https://youtu.be/cWJUk65EnQM" target="_blank">
+  <a href="https://youtu.be/cWJUk65EnQM">
     <img src="tfb.jpg" width="19.5%">
   </a>
 </div>
