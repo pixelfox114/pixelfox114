@@ -1,5 +1,4 @@
 # pixelfox114 - 😺
-<span style="color:#0d1117">Textx</span>
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <a href="https://youtu.be/5ieYcCunCjI" style="text-decoration: none; outline: none;">
@@ -18,16 +17,6 @@
     <img src="tfb.jpg" width="19.5%">
   </a>
 </div>
-
-
-<p>
-  Text here is a test v2.
-</p>
-<p>
-  This text is a test lol ( do you feel this isnt complete?).
-  yeh, ofc it isnt dummy
-</p>
-
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
