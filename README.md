@@ -2,7 +2,7 @@
 
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <a href="https://youtu.be/5ieYcCunCjI" target="_blank" text-decoration: none>
+  <a href="https://youtu.be/5ieYcCunCjI">
     <img src="blink.jpg" width="19.5%">
   </a>
   <a href="https://youtu.be/HzZGLOfIxkM" target="_blank">
