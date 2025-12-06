@@ -19,7 +19,8 @@
 </div>
 #About me: <br>
 I have absolutely nothing to show about me, I know basic OOP and some Python.<br>
-Wanna Learn about backend + databases. I love frontend even if I don't know shit about it, and it makes me feel like a hipster.<br>
+Wanna Learn about backend + databases.<br> 
+I love frontend even if I don't know shit about it, and it makes me feel like a hipster.<br>
 ♠ "Studying" Software Engineering.<br>
 ♥ Obsessed with music.<br>
 ♣ INTP (MBTI = Zodiac Signs 2.0 though)<br>
@@ -27,6 +28,7 @@ Wanna Learn about backend + databases. I love frontend even if I don't know shit
 → Love indie videogames and any form of artistic expression!<br>
 → I only made this profile cus I'm bored!<br>
 (Yes, I ran out of ASCII characters and of ideas.)<br>
+(Yes, I know this is cringy.)<br>
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
