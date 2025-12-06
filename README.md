@@ -1,6 +1,5 @@
 # pixelfox114 - 😺
-![Zzz](https://github-readme-stats.vercel.app/api?username=pixelfox114&show_icons=true)
-
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelfox114)](https://github.com/pixelfox114/github-readme-stats)
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <a href="https://youtu.be/5ieYcCunCjI" style="text-decoration: none; outline: none;">
     <img src="blink.jpg" width="19.5%">
