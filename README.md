@@ -3,23 +3,32 @@
 {a  text-decoration: none;}
 
 
-<div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <a href="https://youtu.be/5ieYcCunCjI" text-decoration: none>
-    <img src="blink.jpg" width="19.5%">
+<p>
+  <a href="https://youtu.be/5ieYcCunCjI">
+    <img src="blink.jpg" width="100">
   </a>
+</p>
+<p>
   <a href="https://youtu.be/HzZGLOfIxkM">
-    <img src="neck.jpg" width="19.5%">
+    <img src="neck.jpg" width="100">
   </a>
+</p>
+<p>
   <a href="https://youtu.be/DsIFM2QKMbI">
-    <img src="html.png" width="19.5%">
+    <img src="html.png" width="100">
   </a>
+</p>
+<p>
   <a href="https://youtu.be/wbO3p7_Mf30">
-    <img src="und.png" width="19.5%">
+    <img src="und.png" width="100">
   </a>
+</p>
+<p>
   <a href="https://youtu.be/cWJUk65EnQM">
-    <img src="tfb.jpg" width="19.5%">
+    <img src="tfb.jpg" width="100">
   </a>
-</div>
+</p>
+
 
 <p>
   Text here is a test v2.
