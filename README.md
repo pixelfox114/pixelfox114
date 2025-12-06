@@ -1,5 +1,6 @@
 ## pixelfox114 - 😺
 
+{a  text-decoration: none;}
 
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
