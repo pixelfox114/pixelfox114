@@ -1,9 +1,9 @@
 ## pixelfox114 - 😺
 
 <table align="right" cellspacing="5">
-  table {
-  border-spacing: 10px;
-}
+  <caption>
+  Some of my music!  
+  </caption>
   <tr>
     <td><a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="100"></a></td>
   </tr>
