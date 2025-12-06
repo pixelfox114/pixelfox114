@@ -1,35 +1,17 @@
 # pixelfox114 - 😺
-<table align="right" cellspacing="1" width="12">
-  <tr>
-    <td align="center"><b>Some of my music</b></td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://youtu.be/HzZGLOfIxkM"><img src="neck.jpg" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://youtu.be/DsIFM2QKMbI"><img src="html.png" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://youtu.be/wbO3p7_Mf30"><img src="und.png" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://youtu.be/cWJUk65EnQM"><img src="tfb.jpg" width="100%"></a>
-    </td>
-  </tr>
-</table>
 
+<div style="float: right; display: flex; flex-direction: column; gap: 5px;">
+<a href="https://youtu.be/5ieYcCunCjI">
+<img src="blink.jpg" width="19.5%">
+</a>
+<a href="https://youtu.be/HzZGLOfIxkM"> <img src="neck.jpg" width="19.5%"> </a>
+<a href="https://youtu.be/DSIFM2QKMBI"> <img src="html.png" width="19.5%">
+</a>
+<a href="https://youtu.be/wb03p7_Mf30"> <img src="und.png" width="19.5%">
+</a>
+<a href="https://youtu.be/cWJUk65EnQM"> <img src="tfb.jpg" width="19.5%">
+</a>
+</div>
 <p>
   Text here is a test v2.
 </p>
