@@ -1,6 +1,6 @@
 # pixelfox114 - 😺
 
-<table align="right" cellspacing="1">
+<table align="right" cellspacing="1" width="120">
   <tr>
     <td align="right"><b>Some of my music</b></td>
   </tr>
