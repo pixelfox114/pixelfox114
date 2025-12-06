@@ -1,6 +1,6 @@
 ## pixelfox114 - 😺
 
-<table align="right" cellspacing="1">
+<table align="right" cellspacing="0">
   <tr>
     <td><a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="140"></a></td>
   </tr>
