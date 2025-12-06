@@ -1,14 +1,5 @@
 ## pixelfox114 - 😺
-<style>
-  a {
-    display: block;
-    text-decoration: none; 
-    outline: none;         
-  }
-  a img {
-    border: none;
-  }
-</style>
+
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <a href="https://youtu.be/5ieYcCunCjI" target="_blank">
