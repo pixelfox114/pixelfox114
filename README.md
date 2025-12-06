@@ -4,7 +4,7 @@
 
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <a href="https://youtu.be/5ieYcCunCjI">
+  <a href="https://youtu.be/5ieYcCunCjI" text-decoration: none>
     <img src="blink.jpg" width="19.5%">
   </a>
   <a href="https://youtu.be/HzZGLOfIxkM">
