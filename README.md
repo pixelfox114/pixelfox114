@@ -18,7 +18,7 @@
   </a>
 </div>
 #About me: <br>
-I have absolutely nothing else to show about me, I know basic OOP and some Python.<br>
+I have absolutely nothing to show about me, I know basic OOP and some Python.<br>
 Wanna Learn about backend + databases. I love frontend even if I don't know shit about it, and it makes me feel like a hipster.<br>
 ♠ "Studying" Software Engineering.<br>
 ♥ Obssesed with music.<br>
