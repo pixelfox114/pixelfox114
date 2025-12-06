@@ -2,8 +2,8 @@
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <img src="blink.gif" width="20%">
   <img src="neck.jpg" width="20%">
-  <img src="html.jpg" width="20%">
-  <img src="und.jpg" width="20%">
+  <img src="html.png" width="20%">
+  <img src="und.png" width="20%">
   <img src="tfb.jpg" width="20%">
 
 </div>
