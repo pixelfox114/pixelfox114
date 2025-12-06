@@ -1,4 +1,5 @@
 # pixelfox114 - 😺
+![Zzz](https://github-readme-stats.vercel.app/api?username=pixelfox114&show_icons=true)
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <a href="https://youtu.be/5ieYcCunCjI" style="text-decoration: none; outline: none;">
