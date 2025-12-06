@@ -2,19 +2,19 @@
 
 
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
-  <a href="https://youtu.be/5ieYcCunCjI" target="_blank" style="display: block; text-decoration: none; outline: none;">
+  <a href="https://youtu.be/5ieYcCunCjI" target="_blank">
     <img src="blink.jpg" width="19.5%">
   </a>
-  <a href="https://youtu.be/HzZGLOfIxkM" target="_blank" style="display: block; text-decoration: none; outline: none;">
+  <a href="https://youtu.be/HzZGLOfIxkM" target="_blank">
     <img src="neck.jpg" width="19.5%">
   </a>
-  <a href="https://youtu.be/DsIFM2QKMbI" target="_blank" style="display: block; text-decoration: none; outline: none;">
+  <a href="https://youtu.be/DsIFM2QKMbI" target="_blank">
     <img src="html.png" width="19.5%">
   </a>
-  <a href="https://youtu.be/wbO3p7_Mf30" target="_blank" style="display: block; text-decoration: none; outline: none;">
+  <a href="https://youtu.be/wbO3p7_Mf30" target="_blank">
     <img src="und.png" width="19.5%">
   </a>
-  <a href="https://youtu.be/cWJUk65EnQM" target="_blank" style="display: block; text-decoration: none; outline: none;">
+  <a href="https://youtu.be/cWJUk65EnQM" target="_blank">
     <img src="tfb.jpg" width="19.5%">
   </a>
 </div>
