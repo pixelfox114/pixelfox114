@@ -30,9 +30,6 @@
   </tr>
 </table>
 
-
-
-
 <p>
   Text here is a test v2.
 </p>
