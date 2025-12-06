@@ -2,7 +2,7 @@
 
 <table align="right" cellspacing="5">
   <tr>
-    <td><a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="100"></a></td>
+    <td><a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="120"></a></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/HzZGLOfIxkM"><img src="neck.jpg" width="100"></a></td>
