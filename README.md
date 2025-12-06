@@ -1,33 +1,23 @@
 ## pixelfox114 - 😺
 
-{a  text-decoration: none;}
+<table align="right">
+  <tr>
+    <td><a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="100"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/HzZGLOfIxkM"><img src="neck.jpg" width="100"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/DsIFM2QKMbI"><img src="html.png" width="100"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/wbO3p7_Mf30"><img src="und.png" width="100"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/cWJUk65EnQM"><img src="tfb.jpg" width="100"></a></td>
+  </tr>
+</table>
 
-
-<p>
-  <a href="https://youtu.be/5ieYcCunCjI">
-    <img src="blink.jpg" width="100">
-  </a>
-</p>
-<p>
-  <a href="https://youtu.be/HzZGLOfIxkM">
-    <img src="neck.jpg" width="100">
-  </a>
-</p>
-<p>
-  <a href="https://youtu.be/DsIFM2QKMbI">
-    <img src="html.png" width="100">
-  </a>
-</p>
-<p>
-  <a href="https://youtu.be/wbO3p7_Mf30">
-    <img src="und.png" width="100">
-  </a>
-</p>
-<p>
-  <a href="https://youtu.be/cWJUk65EnQM">
-    <img src="tfb.jpg" width="100">
-  </a>
-</p>
 
 
 <p>
