@@ -1,5 +1,5 @@
 # pixelfox114 - 😺
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelfox114)](https://github.com/pixelfox114/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div style="float: right; display: flex; flex-direction: column; gap: 5px;">
   <a href="https://youtu.be/5ieYcCunCjI" style="text-decoration: none; outline: none;">
     <img src="blink.jpg" width="19.5%">
