@@ -17,6 +17,16 @@
     <img src="tfb.jpg" width="19.5%">
   </a>
 </div>
+#About me: 
+I have absolutely nothing else to show about me, I know basic OOP and some Python.
+Wanna Learn about backend + databases. I love frontend even if I don't know shit about it, and it makes me feel like a hipster.
+♠ "Studying" Software Engineering.
+♥ Obssesed with music.
+♣ INTP (MBTI = Zodiac Signs 2.0 though)
+♦ I swear I'm not a furry.
+→ Love indie videogames and any form of artistic expression!
+→ I only made this profile cus I'm bored!
+(Yes, I ran out of ASCII characters and of ideas.)
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
