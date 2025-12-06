@@ -17,7 +17,7 @@
     <img src="tfb.jpg" width="19.5%">
   </a>
 </div>
-#About me: <br>
+☭About me: <br>
 I have absolutely nothing to show about me, I know basic OOP and some Python.<br>
 Wanna Learn about backend + databases.<br> 
 I love frontend even if I don't know shit about it, and it makes me feel like a hipster.<br>
