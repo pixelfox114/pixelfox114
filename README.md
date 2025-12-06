@@ -6,27 +6,27 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="100%"></a>
+      <a href="https://youtu.be/5ieYcCunCjI"><img src="blink.jpg" width="10%"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/HzZGLOfIxkM"><img src="neck.jpg" width="100%"></a>
+      <a href="https://youtu.be/HzZGLOfIxkM"><img src="neck.jpg" width="10%"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/DsIFM2QKMbI"><img src="html.png" width="100%"></a>
+      <a href="https://youtu.be/DsIFM2QKMbI"><img src="html.png" width="10%"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/wbO3p7_Mf30"><img src="und.png" width="100%"></a>
+      <a href="https://youtu.be/wbO3p7_Mf30"><img src="und.png" width="10%"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/cWJUk65EnQM"><img src="tfb.jpg" width="100%"></a>
+      <a href="https://youtu.be/cWJUk65EnQM"><img src="tfb.jpg" width="10%"></a>
     </td>
   </tr>
 </table>
