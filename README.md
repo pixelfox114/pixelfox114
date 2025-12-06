@@ -1,5 +1,5 @@
 # pixelfox114 - 😺
-<table align="right" cellspacing="1" width="120">
+<table align="right" cellspacing="1" width="12">
   <tr>
     <td align="center"><b>Some of my music</b></td>
   </tr>
