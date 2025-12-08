@@ -32,10 +32,10 @@ I love frontend even if I don't know shit about it, and it makes me feel like a 
 
 <br><br>
 ==========================<br>
-||  Main Systems        ||<br>
+||  Main Systems⠀⠀⠀⠀⠀⠀⠀⠀⠀||<br>
 ==========================<br>
-||  1. ROG Zephyrus G14 ||<br>
-||  2. ROG Strix G16    ||<br>
+||  1. ROG Zephyrus G14⠀⠀⠀||<br>
+||  2. ROG Strix G16⠀⠀⠀⠀⠀⠀||<br>
 ==========================<br>
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
