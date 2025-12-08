@@ -29,6 +29,14 @@ I love frontend even if I don't know shit about it, and it makes me feel like a 
 → I only made this profile cus I'm bored!<br>
 (Yes, I ran out of ASCII characters and of ideas.)<br>
 (Yes, I know this is cringy.)<br>
+
+<br><br>
+==========================<br>
+||  Main Systems        ||<br>
+==========================<br>
+||  1. ROG Zephyrus G14 ||<br>
+||  2. ROG Strix G16    ||<br>
+==========================<br>
 <!--
 **pixelfox114/pixelfox114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
